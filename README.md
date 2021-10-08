@@ -7,13 +7,13 @@ Click [here](https://codepen.io/richnguyen/pen/abwrZrq?editors=1100) to go to th
 
 Features Used in this Project:
 
-  -HTML and CSS (plain css)
+  * HTML and CSS (plain css)
 
-  -Responsive Images & Link
+  * Responsive Images & Link
 
-  -Created on CodePen.io software
+  * Created on CodePen.io software
 
-  -Uses Flexboxes
+  * Uses Flexboxes
   
 A 'freeCodeCamp' Responsive Web Design Project.
 
