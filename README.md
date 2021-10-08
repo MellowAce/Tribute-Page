@@ -6,10 +6,14 @@ Click [here](https://codepen.io/richnguyen/pen/abwrZrq?editors=1100) to go to th
 [Tribute Page Link](https://codepen.io/richnguyen/full/abwrZrq)
 
 Features Used in this Project:
-  *HTML and CSS (plain css)
-  *Responsive Images & Link
-  *Created on CodePen.io software
-  *Uses Flexboxes
+
+*HTML and CSS (plain css)
+
+*Responsive Images & Link
+
+*Created on CodePen.io software
+
+*Uses Flexboxes
   
 A 'freeCodeCamp' Responsive Web Design Project.
 
